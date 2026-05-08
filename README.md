@@ -29,7 +29,7 @@ Eine React Native (Expo) App für die [Factorial HR](https://factorialhr.com) AP
 ### 1. Repository klonen
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/kekZiger/factorial-app
 cd factorial-app
 npm install --legacy-peer-deps
 ```
