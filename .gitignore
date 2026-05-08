@@ -33,6 +33,9 @@ yarn-error.*
 # local env files
 .env*.local
 
+# Factorial OAuth secrets — copy src/config.example.ts → src/config.ts and fill in your credentials
+src/config.ts
+
 # typescript
 *.tsbuildinfo
 
